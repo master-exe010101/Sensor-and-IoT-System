@@ -1,4 +1,3 @@
-# IoT (Internet of Things) - Chapter 1 Notes
 
 ## প্রশ্ন
 **IoT বলতে কি বুঝায়? এর কার্য পদ্ধতি বর্ণনা কর।**
